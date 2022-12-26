@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Dayytime
-- 👀 I’m interested in web dev, python, linux, RICEing, gaming, and balisongs!
-- 🌱 I’m currently learning python, django, and knife flips
-- 💞️ I’m looking to collaborate on things??
+- 👀 I’m interested in web dev, python, linux, RICEing, and gaming!
 - 📫 How to reach me. Discord: Daytime#0847
