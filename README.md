@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Dayytime
 - 👀 I’m interested in web dev, python, linux, RICEing, and gaming!
-- 📫 How to reach me. Discord: Daytime#0847
+- 📫 How to reach me. Discord: Dayytime
